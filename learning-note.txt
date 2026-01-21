@@ -1,0 +1,5 @@
+Today I learned:
+-What GitHub is
+-What repository means
+-What commit means
+I feel more confident using GitHub now.
