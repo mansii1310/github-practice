@@ -1,6 +1,11 @@
-# github-practice
-My first GitHub practice repository
-I am learning how to:
-- Create repository
-- Edit README
-- Commit changes
+# GitHub Practice Project 
+This Repository is created to undertand GitHub basics
+## What I Learned
+- Creating repositories
+- Editing README files
+- Adding new files
+- Making commits
+## Why This Repo Exists
+This Repository is part of my journey to become a Data Scientist.
+## Author
+Mansi Mandlik
