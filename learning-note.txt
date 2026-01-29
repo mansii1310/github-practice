@@ -1,24 +1,24 @@
-## 📘 Learning Notes – Data Science & Machine Learning Basics
+📘 Learning Notes – Data Science & Machine Learning Basics
 
-### 🧮 NumPy
+🧮 NumPy
 - Learned how to create and manipulate arrays
 - Performed mathematical and statistical operations
 - Understood array indexing, slicing, and reshaping
 - Learned about broadcasting and vectorized operations
 
-### 🐼 Pandas
+🐼 Pandas
 - Worked with Series and DataFrames
 - Learned data loading (CSV files)
 - Performed data cleaning and preprocessing
 - Used filtering, grouping, sorting, and aggregation
 - Handled missing values
 
-### 📊 Matplotlib
+📊 Matplotlib
 - Created line plots, bar charts, histograms, and scatter plots
 - Customized plots using labels, titles, legends, and colors
 - Understood basic plotting concepts
 
-### 🎨 Seaborn
+🎨 Seaborn
 - Created advanced visualizations like:
   - Heatmaps
   - Pair plots
@@ -27,7 +27,7 @@
 - Learned how to visualize relationships between variables
 - Used Seaborn with Pandas DataFrames
 
-### 🤖 Machine Learning Basics
+🤖 Machine Learning Basics
 - Understood what Machine Learning is
 - Learned types of ML:
   - Supervised Learning
@@ -40,5 +40,5 @@
   - Model evaluation
 - Implemented basic models using Scikit-learn
 
-### 📈 Goal
+📈 Goal
 To build a strong foundation in Data Science and Machine Learning and gradually move toward advanced concepts and real-world projects.
