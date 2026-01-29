@@ -1,4 +1,4 @@
-#👋 Hi, I’m Mansi
+# 👋 Hi, I’m Mansi
 
 🎓 Final-Year Student
 
@@ -10,7 +10,7 @@
 
 🌱 Continuous Learner focused on improving every day
 
-##🔍 Projects I’ve worked on:
+## 🔍 Projects I’ve worked on:
 
 📊 Student Performance Analysis – understanding academic patterns
 
@@ -26,7 +26,7 @@
 
 🛠️ Tools & Technologies:
 
-##Python
+## Python
 
 pandas, numpy
 
@@ -36,7 +36,7 @@ Jupyter Notebook
 
 CSV & real-world datasets
 
-£#📌 Currently focusing on:
+## 📌 Currently focusing on:
 
 Improving data analysis skills, building stronger projects, and preparing for Data Science internships.
 🤝 Open to internship opportunities, collaborations, and feedback on my work.
