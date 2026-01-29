@@ -24,9 +24,9 @@
 
 🏠 House Price Prediction – beginner-level predictive modeling
 
-🛠️ Tools & Technologies:
+## 🛠️ Tools & Technologies:
 
-## Python
+Python
 
 pandas, numpy
 
