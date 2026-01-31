@@ -32,6 +32,8 @@ pandas, numpy
 
 matplotlib, seaborn
 
+Scikit-learn
+
 Jupyter Notebook
 
 CSV & real-world datasets
