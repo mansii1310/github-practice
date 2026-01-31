@@ -24,9 +24,9 @@
 
 6.House Price Prediction – beginner-level predictive modeling
 
-7.Customer Churn Analysis
+7.Customer Churn Analysis - Identify customers likely to leave and understand churn reasons.
 
-8.Customer Segmentation Kmeans
+8.Customer Segmentation Kmeans - Segment customers into groups based on behavior using K-Means clustering.
 
 ## 🛠️ Tools & Technologies:
 
