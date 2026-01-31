@@ -12,17 +12,21 @@
 
 ## 🔍 Projects I’ve worked on:
 
-📊 Student Performance Analysis – understanding academic patterns
+1.Student Performance Analysis – understanding academic patterns
 
-👥 Customer Data & Churn Analysis – identifying retention insights
+2.Customer Analysis – identifying retention insights
 
-📦 Product Demand Analysis – analyzing demand trends
+3.Product Demand Analysis – analyzing demand trends
 
-🎬 Netflix Data Analysis – exploring content & user trends
+4.Netflix Data Analysis – exploring content & user trends
 
-💰 Sales Data Analysis – extracting business insights
+5.Sales Data Analysis – extracting business insights
 
-🏠 House Price Prediction – beginner-level predictive modeling
+6.House Price Prediction – beginner-level predictive modeling
+
+7.Customer Churn Analysis
+
+8.Customer Segmentation Kmeans
 
 ## 🛠️ Tools & Technologies:
 
